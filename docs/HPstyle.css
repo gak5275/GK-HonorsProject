@@ -1,17 +1,17 @@
 body {
     font-family: arial, helvetica, sans-serif;
-    background-color:#add8e6;
-    color:maroon;
+    background-color:black;
+    color:white;
     padding: 5px;
      }
 h1 {
-    border: 5px solid orange;
+    /*border: 5px solid orange;*/
     }
 nav {
-    border: 5px solid blue;
+    /*border: 5px solid blue;*/
     }
 img {
-    border: 10px solid green;
+    /*border: 10px solid green;*/
     }
 figure {width: 30%; margin: auto; padding-top: 1vw; padding-bottom: 1vw;}
 /*figcaption {font-style: italic; font-size: smaller;}*/

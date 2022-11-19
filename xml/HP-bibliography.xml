@@ -1,1 +1,116 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <bib>
+        <head>Bibliography</head>
+        <body>
+            <!-- key -->
+            <!-- dev: the person or team of people who developed the game -->
+            <!-- pub: the company, developer, or person that published the game or resource -->
+            <vnGames>
+                <!-- Visual novel games that inspired my project. -->
+                <subject>
+                    <title>Coffee Talk</title>
+                    <dev>Toge Productions</dev>
+                    <pub>Toge Productions</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/914800/Coffee_Talk/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>VA-11 Hall-A: Cyberpunk Bartender Action</title>
+                    <dev>Sukeban Games</dev>
+                    <pub>Ysbryd Games, AGM Playism</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Arcade Spirits</title>
+                    <dev>Fiction Factory Games</dev>
+                    <pub>PQube</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/910630/Arcade_Spirits/"/>
+                    </link>
+                </subject>
+            </vnGames>
+            <OtherGames>
+                <!-- Other narrative-driven games that inspired my project -->
+                <subject>
+                    <title>Stardew Valley</title>
+                    <dev>ConcernedApe</dev>
+                    <pub>ConcernedApe</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/413150/Stardew_Valley/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Fire Emblem: Three Houses</title>
+                    <dev>Intelligent Systems, Koei Tecmo</dev>
+                    <pub>Nintendo</pub>
+                    <link>
+                        <a href="https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Tales of Arise</title>
+                    <dev>Bandai Namco Studios Inc.</dev>
+                    <pub>Bandai Namco Entertainment</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/740130/Tales_of_Arise/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Night in the Woods</title>
+                    <dev>Infinite Fall</dev>
+                    <pub>Finji</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/481510/Night_in_the_Woods/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Persona 4</title>
+                    <dev>Atlus</dev>
+                    <pub>Sega</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/1113000/Persona_4_Golden/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Persona 5</title>
+                    <dev>Atlus</dev>
+                    <pub>Sega</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/1687950/Persona_5_Royal/"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Judgment</title>
+                    <dev>Ryu Ga Gotoku Studio</dev>
+                    <pub>Sega</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/2058180/Judgment/"/>
+                    </link>
+                </subject>
+            </OtherGames>
+            <Research>
+                <!-- Online resources that aided me in my research -->
+                <subject>
+                    <title/>
+                    <author/>
+                    <pub/>
+                    <link>
+                        <a href=""/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Interactive Storytelling for Video Games: Proven Writing Techniques for Role Playing Games, Online Games, First Person Shooters, and more</title>
+                    <author>Josiah Lebowitz, Chris Klug</author>
+                    <pub>Elsevier, Focal Press</pub>
+                    <link>
+                        <a href="https://books.google.com/books?id=QUrarEcvaO8C&pg=PA194#v=onepage&q&f=false"/>
+                    </link>
+                </subject>
+            </Research>
+        </body>
+    </bib>
+</root>
