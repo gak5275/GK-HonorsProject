@@ -7,7 +7,7 @@
             <!-- dev: the person or team of people who developed the game -->
             <!-- pub: the company, developer, or person that published the game or resource -->
             <vnGames>
-                <!-- Visual novel games that inspired my project. -->
+                <note>Visual novel games that inspired my project.</note>
                 <subject>
                     <title>Coffee Talk</title>
                     <dev>Toge Productions</dev>
@@ -21,7 +21,9 @@
                     <dev>Sukeban Games</dev>
                     <pub>Ysbryd Games, AGM Playism</pub>
                     <link>
-                        <a href="https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/"/>
+                        <a
+                            href="https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/"
+                        />
                     </link>
                 </subject>
                 <subject>
@@ -33,8 +35,9 @@
                     </link>
                 </subject>
             </vnGames>
+            
             <OtherGames>
-                <!-- Other narrative-driven games that inspired my project -->
+                <note>Other narrative-driven games that inspired my project.</note>
                 <subject>
                     <title>Stardew Valley</title>
                     <dev>ConcernedApe</dev>
@@ -48,7 +51,9 @@
                     <dev>Intelligent Systems, Koei Tecmo</dev>
                     <pub>Nintendo</pub>
                     <link>
-                        <a href="https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"/>
+                        <a
+                            href="https://www.nintendo.com/store/products/fire-emblem-three-houses-switch/"
+                        />
                     </link>
                 </subject>
                 <subject>
@@ -92,8 +97,29 @@
                     </link>
                 </subject>
             </OtherGames>
+            
+            <ResearchGames>
+                <note>Games that I haved played or will play for research purposes.</note>
+                <subject>
+                    <title>Standard Gaming Company</title>
+                    <author>K. B. Bailey</author>
+                    <pub>Brain Jar</pub>
+                    <link>
+                        <a href="https://brainjar.itch.io/standard-gaming-company"/>
+                    </link>
+                </subject>
+                <subject>
+                    <title>Game Dev Tycoon</title>
+                    <dev>Greenheart Games</dev>
+                    <pub>Greenheart Games</pub>
+                    <link>
+                        <a href="https://store.steampowered.com/app/239820/Game_Dev_Tycoon/"/>
+                    </link>
+                </subject>
+            </ResearchGames>
+            
             <Research>
-                <!-- Online resources that aided me in my research -->
+                <note>Online resources that aided me in my research.</note>
                 <subject>
                     <title/>
                     <author/>
@@ -103,12 +129,17 @@
                     </link>
                 </subject>
                 <subject>
-                    <title>Interactive Storytelling for Video Games: Proven Writing Techniques for Role Playing Games, Online Games, First Person Shooters, and more</title>
+                    <title>Interactive Storytelling for Video Games: Proven Writing Techniques for
+                        Role Playing Games, Online Games, First Person Shooters, and more</title>
                     <author>Josiah Lebowitz, Chris Klug</author>
                     <pub>Elsevier, Focal Press</pub>
                     <link>
-                        <a href="https://books.google.com/books?id=QUrarEcvaO8C&pg=PA194#v=onepage&q&f=false"/>
+                        <!--<a
+                            href="https://books.google.com/books?id=QUrarEcvaO8C&pg=PA194#v=onepage&q&f=false"
+                        />-->
+                        The link for this resource will not output properly in XML.
                     </link>
+                    
                 </subject>
             </Research>
         </body>
