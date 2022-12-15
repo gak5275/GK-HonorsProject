@@ -18,3 +18,11 @@ figure {width: 30%; margin: auto; padding-top: 1vw; padding-bottom: 1vw;}
 img.photo {max-width:1000px; width:100%}
 
 /*iframe {frameborder: 0; style: border: none; width: 100%; height: 780px;}*/
+
+span.g {color:gray;}
+span.r {color:red;}
+span.a {color:green;}
+span.y {color:yellow;}
+span.d {color:purple;}
+span.o {color:orange;}
+span.n {color:blue;}
