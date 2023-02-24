@@ -2,7 +2,7 @@
 
 My Honors Project is a visual novel focused on character relationships, with game development being the driving force of the narrative. I have played a few visual novels that have heavily inspired the one that I am making, as well as several other games that have VN-like elements or are highly narrative-driven that have also inspired me in some way.
 
-## Arcade Spirits
+## [Arcade Spirits](https://www.arcadespirits.com/original/)
 
 Arcade Spirits is a visual novel that is possibly that biggest source of inspiration for my project. Set in a world where arcade games never fell out of popularity after the 1980s, the player assumes the role of a new employee at a modest family-owned arcade. There is a small cast of characters to get to know over the course of the story, including the player's coworkers and arcade regulars.
 
@@ -13,7 +13,7 @@ Elements of Arcade Spirits that I want to adapt for my project:
 * Sequence of events - In AS, there are several instances of the player being prompted to choose which character(s) they want to interact with in a given situation. However, they can only see a limited amount of events before the story progresses. I would like to incorporate this type of player choice, but I will likely not impose any extreme limits on it so that someone will only have to play through the game once to see every character's storyline to completion.
 * Screen setup - AS has its screen and user interface set up like most visual novels. The character(s) are in the center of the screen against a static background, with the text box at the bottom of the screen displaying the dialogue and the name of whoever is speaking. This is the format that I would like my game to follow for the most part.
 
-## Coffee Talk & VA-11 HALL-A
+## [Coffee Talk](https://www.togeproductions.com/project/coffee-talk/) & [VA-11 HALL-A](http://waifubartending.com/)
 
 Coffee Talk and VA-11 HALL-A (pronounced "Valhalla") are two visual novels that have the player serve drinks to customers as they get to know them through dialogue. In Coffee Talk, you play as a barista serving coffee, while in Valhalla you play as a bartender serving alcohol. Coffee Talk is set in modern day with some fantasy elements, and Vallhalla is set in a dystopian sci-fi future. Characters will ask for certain drinks, and getting these requests right or wrong will change the dialogue to some degree. I put these two together because they are very similiar games, though they were made by different studios.
 
