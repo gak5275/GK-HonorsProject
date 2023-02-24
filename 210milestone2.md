@@ -13,11 +13,19 @@ Elements of Arcade Spirits that I want to adapt for my project:
 * Sequence of events - In AS, there are several instances of the player being prompted to choose which character(s) they want to interact with in a given situation. However, they can only see a limited amount of events before the story progresses. I would like to incorporate this type of player choice, but I will likely not impose any extreme limits on it so that someone will only have to play through the game once to see every character's storyline to completion.
 * Screen setup - AS has its screen and user interface set up like most visual novels. The character(s) are in the center of the screen against a static background, with the text box at the bottom of the screen displaying the dialogue and the name of whoever is speaking. This is the format that I would like my game to follow for the most part.
 
+![ASpic1](https://www.arcadespirits.com/ArcadeSpirits-Screen3-Thumb.jpg)
+
+![ASpic2](https://www.arcadespirits.com/ArcadeSpirits-Screen2-Thumb.jpg)
+
 ## [Coffee Talk](https://www.togeproductions.com/project/coffee-talk/) & [VA-11 HALL-A](http://waifubartending.com/)
 
 Coffee Talk and VA-11 HALL-A (pronounced "Valhalla") are two visual novels that have the player serve drinks to customers as they get to know them through dialogue. In Coffee Talk, you play as a barista serving coffee, while in Valhalla you play as a bartender serving alcohol. Coffee Talk is set in modern day with some fantasy elements, and Vallhalla is set in a dystopian sci-fi future. Characters will ask for certain drinks, and getting these requests right or wrong will change the dialogue to some degree. I put these two together because they are very similiar games, though they were made by different studios.
 
 These two VNs inspired me in similar ways to Arcade Spirits, but the biggest aspect of them that I am envisioning for my own game is their artstyle. Both games are done in visually-appealing pixel art. Pixel art is the most feasible art direction for someone like me who is not a great artist. This is one part of my project that I may have too high of hopes for...
+
+![CTpic](https://media.wired.com/photos/600f80f69cf0a54d47c37d31/master/w_2560%2Cc_limit/Coffee%2520Talk.png)
+
+![VHpic](http://waifubartending.com/Waifu_Abuse_16.png)
 
 ## Other narrative-driven games that have inspired my own project:
 
