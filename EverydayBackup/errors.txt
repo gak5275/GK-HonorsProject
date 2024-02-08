@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1318: play requires a file
+    play music 
+               ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Thu Feb  8 03:05:33 2024
