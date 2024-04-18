@@ -1,6 +1,10 @@
 # Everyday - Version 1.0.1
 ## Created Graydon Kupfer
 
+Everyday on itch.io:
+
+https://graydonk.itch.io/everyday
+
 Permanent archived version is available on Zenodo (use this link when citing the game as a source):
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10892446.svg)](https://doi.org/10.5281/zenodo.10892446)
