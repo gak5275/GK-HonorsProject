@@ -1,4 +1,4 @@
-# Everyday - Version 1.0.1
+# Everyday - Version 1.0.2
 ## Created Graydon Kupfer
 
 Everyday on itch.io:
