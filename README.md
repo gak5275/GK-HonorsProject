@@ -1,5 +1,5 @@
 # Everyday - Version 1.1.3
-## Created Graydon Kupfer
+## Created by Graydon Kupfer
 
 Everyday - Version 1.1.3 on itch.io:
 
